@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Le titre du document</title>
-    <!-- <link rel="stylesheet" type="text/css" href="feuille-de-styles.css">-->
+    <link rel="stylesheet" type="text/css" href="design/style.css">
 </head>
 <body>
 
